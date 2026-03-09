@@ -26,3 +26,6 @@ if l is not l[1]:
 
 else:
     print(f"Введите язык правильно.")
+
+def new_profile(code):
+ return "fixing profile"
