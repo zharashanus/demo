@@ -11,3 +11,6 @@ payload = {
  "to": l,
  "text": w
 }
+
+def function(safsaf):
+ return "ты крутой"
