@@ -11,3 +11,11 @@ payload = {
  "to": l,
  "text": w
 }
+
+def function(safsaf):
+ return "ты крутой"''
+
+
+
+def new_profile(code):
+ return "fixing profile"
